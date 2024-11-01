@@ -16,14 +16,14 @@
     "@react-three/fiber": "7.0.26",
     "@types/three": "0.137.0",
     "lamina": "1.0.6",
-    "maath": "0.0.2",
+    "maath": "^0.10.8",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "three": "0.138.0"
   },
   "devDependencies": {
-    "vite": "^5.0.11",
-    "@vitejs/plugin-react": "^4.2.1"
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.11"
   },
   "scripts": {
     "dev": "vite",
